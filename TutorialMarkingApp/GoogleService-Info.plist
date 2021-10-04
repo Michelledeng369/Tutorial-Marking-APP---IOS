@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>328846350344-8437d0ho1vvlf4mjojmuct173jljsprl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.328846350344-8437d0ho1vvlf4mjojmuct173jljsprl</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCAI6v3VjkLQ19RVdwjZqZE3DdWHKR5MpQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>328846350344</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>au.edu.utas.dengm.TutorialMarkingApp</string>
+	<key>PROJECT_ID</key>
+	<string>assignment03-3bafc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>assignment03-3bafc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:328846350344:ios:6911d67a8c134f647a19bd</string>
+</dict>
+</plist>
