@@ -4,10 +4,10 @@
 This is a Tutorial Marks App developed by Xcode with Swift language. 
 
 How to run this application?
-Step 1. Dowload XCode in your Macbook.
-Step 2. Dowload "Tutorial-Marking-APP---IOS" project, double click "TutorialMarkingApp.xcworkspace" file and open it by XCode.
-Step 3. Choose one simulation you like, and click "Run" button on Xcode.
-Just waitting for the open of the App!
+1. Dowload XCode in your Macbook.
+2. Dowload "Tutorial-Marking-APP---IOS" project, double click "TutorialMarkingApp.xcworkspace" file and open it by XCode.
+3. Choose one simulation you like, and click "Run" button on Xcode.
+4. Just waitting for the open of the App!
 
 
 The application has three sections: 
