@@ -21,3 +21,7 @@ There is some error in search button!
 The search function is achieved but it cannot be associated with the studentInsex in StudentDetailViewController. It uses a temporary variable "searchStudent" to store the student details after searching. However, there is a bug, that is, the app cannot return the right student after filtering, for example, if I filter a keyword and get 3 students, when I change the third student’s (e.g. Mike is the third student after  filtering) name and return to student list, the third student’s (Tim is the student in student list) name in student list will be changed. I know the problem is because of the studentIndex.
 
 If you can fix it, thank you a lot!
+
+
+https://user-images.githubusercontent.com/88606527/160049629-31a683dc-23cc-4975-a0ac-286a36a312be.mp4
+
